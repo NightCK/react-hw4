@@ -1,0 +1,35 @@
+.ctaBanner {
+    padding: 60px 0;
+    background-color: #263043;
+    color: white;
+  }
+
+.center {
+    width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ctaBanner h2 {
+    color: #ffffff;
+    font-size: 1.875rem;
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+
+.ctaBanner h4{
+    color: #ffffff;
+    font-weight: 800;
+    margin-bottom: 40px;
+}
+  
+.btnCTA {
+    display: inline-block;
+    background-color: #fbac2b;
+    padding: 12px 24px;
+    border-radius: 8px;
+    color: white;
+    white-space: nowrap;
+}

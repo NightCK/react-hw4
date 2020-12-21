@@ -1,18 +1,18 @@
-a {
-    text-decoration: none;
-    color: #ffffff;
-}
-
-li {
-    list-style: none;
-}
-
 .siteHeader {
     width: 100%;
     position: fixed;
     height: 3.75rem;
     padding: 24px 56px 24px 56px;
     box-sizing: border-box;
+}
+
+.siteHeader a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.siteHeader li {
+    list-style: none;
 }
 
 .center {

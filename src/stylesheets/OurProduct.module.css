@@ -1,0 +1,75 @@
+.sectionProduct {
+    background-color: #f3f3f3;
+    padding: 3.75rem 3.5rem 7.5rem 3.5rem;
+}
+
+.center {
+    width: 80rem;
+    margin: 0 auto;
+    display: flex;
+}
+
+.textBlock {
+    width: 50%;
+    color: #263043;
+    margin-left: 2rem;
+}
+
+.textBlock h3 {
+    font-size: 1.75rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+}
+
+.textBlock p {
+    font-size: 1rem;
+    line-height: 1.75rem;
+    font-weight: 400;
+    margin-bottom: 1.5rem;
+}
+
+.menuBlock {
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 15px 20px 0px;
+    padding: 2rem 1.5rem;
+}
+
+.menuBlock a {
+    text-decoration: none;
+}
+
+.menuBlock li {
+    list-style: none;
+}
+
+.menuBlock h6 {
+    color: #263043;
+    font-size: 0.75rem;
+    line-height: 1.125rem;
+    font-weight: 600;
+}
+
+.menuBlock p {
+    font-size: 0.75rem;
+    line-height: 1.125rem;
+    font-weight: 400;
+}
+
+.menuItem {
+    width: calc(100% - 10px);
+    display: flex;
+    margin: 0.3125rem;
+    padding: 1rem 0.5rem;
+    cursor: pointer;
+}
+
+.menuItem:hover {
+    background-color: #f8f8f8;
+}
+
+.menuItemIcon {
+    max-width: 40px;
+    max-height: 40px;
+    margin-right: 24px;
+}
